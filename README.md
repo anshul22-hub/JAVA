@@ -1,1 +1,4 @@
-It is a bacic Java program.
+Basic java program 
+                  - Math 
+                  - For Loop
+                  - if else loop.
