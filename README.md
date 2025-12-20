@@ -1,18 +1,19 @@
 📘 Java Basics – Loops & Math Problems
 
-🚀 A beginner-friendly repository to practice Java programming using loops and mathematical operations.
+🚀 Beginner-friendly Java repository to practice loops and mathematical problem-solving.
 
-🔹 Overview
+📖 Overview
 
-This repository contains solutions to basic Java problems using loops (for, while, do-while) and mathematical operations. It is designed to help beginners strengthen their problem-solving skills and build a strong foundation in Java.
+This repository contains basic Java programs focused on looping constructs and mathematical logic.
+It is designed to help beginners strengthen fundamentals, improve logic-building skills, and gain confidence in Java programming.
 
 🧠 What You’ll Learn
 
 Understanding loop concepts in Java
 
-Writing clean and logical Java code
+Writing clean and readable Java code
 
-Solving mathematical problems using programming
+Solving mathematical problems programmatically
 
 Improving logical thinking and problem-solving skills
 
@@ -38,13 +39,13 @@ Java-Basics-Loops-Math/
 └── README.md
 
 🚀 Getting Started
-Prerequisites
+✅ Prerequisites
 
 Java JDK 8 or above
 
 Any Java IDE (IntelliJ IDEA, Eclipse, VS Code)
 
-Run the Code
+▶ Run the Program
 javac FileName.java
 java FileName
 
@@ -60,14 +61,5 @@ DSA beginners
 
 🤝 Contributions
 
-Contributions are welcome.
+Contributions are welcome!
 Feel free to fork the repository and submit pull requests.
-
-⭐ Support
-
-If you find this repository helpful, don’t forget to give it a ⭐ star.
-
-📌 Author
-
-Piyush Kumar Shukla
-Aspiring Software Engineer | Java Developer
