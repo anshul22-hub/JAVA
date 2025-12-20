@@ -4,39 +4,29 @@
 
 🔹 Overview
 
-This repository contains solutions to basic Java problems implemented using:
-
-for loops
-
-while loops
-
-do-while loops
-
-Core mathematical logic
-
-It is specially designed for beginners who want to strengthen their problem-solving skills and build a strong foundation in Java.
+This repository contains solutions to basic Java problems using loops (for, while, do-while) and mathematical operations. It is designed to help beginners strengthen their problem-solving skills and build a strong foundation in Java.
 
 🧠 What You’ll Learn
 
-How loops work in Java
+Understanding loop concepts in Java
 
 Writing clean and logical Java code
 
-Solving math-based problems programmatically
+Solving mathematical problems using programming
 
-Improving logical thinking and DSA basics
+Improving logical thinking and problem-solving skills
 
 🛠 Topics Covered
 
-✅ Looping statements (for, while, do-while)
+Looping statements (for, while, do-while)
 
-✅ Number problems (even/odd, prime, factorial, etc.)
+Number-based problems (even/odd, prime, factorial, etc.)
 
-✅ Mathematical calculations
+Mathematical calculations
 
-✅ Pattern-based logic
+Pattern-based problems
 
-✅ Beginner-level problem solving
+Beginner-friendly Java logic
 
 📂 Repository Structure
 Java-Basics-Loops-Math/
@@ -50,9 +40,9 @@ Java-Basics-Loops-Math/
 🚀 Getting Started
 Prerequisites
 
-Java (JDK 8 or above)
+Java JDK 8 or above
 
-Any IDE (IntelliJ IDEA / Eclipse / VS Code)
+Any Java IDE (IntelliJ IDEA, Eclipse, VS Code)
 
 Run the Code
 javac FileName.java
@@ -60,25 +50,24 @@ java FileName
 
 🎯 Who Is This For?
 
-Beginners learning Java
+Java beginners
 
-Students preparing for interviews
+Students preparing for coding interviews
 
 Anyone revising Java fundamentals
 
-DSA starters
+DSA beginners
 
 🤝 Contributions
 
-Contributions are welcome!
-Feel free to:
-
-Add new problems
-
-Improve existing solutions
-
-Optimize code
+Contributions are welcome.
+Feel free to fork the repository and submit pull requests.
 
 ⭐ Support
 
-If you find this repository helpful, please star ⭐ the repo to support my work.
+If you find this repository helpful, don’t forget to give it a ⭐ star.
+
+📌 Author
+
+Piyush Kumar Shukla
+Aspiring Software Engineer | Java Developer
